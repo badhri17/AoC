@@ -1,0 +1,17 @@
+{
+  "name": "aot",
+  "version": "1.0.0",
+  "description": "answers for advent of typescript 2023 typehero.dev",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bader mohammed",
+  "license": "ISC",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
